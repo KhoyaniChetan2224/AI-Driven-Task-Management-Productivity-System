@@ -11,7 +11,7 @@ const Navbar = () => {
       name: "Features",
       content: [
         { label: "Overview", path: "/software/jira/features" },
-        { label: "Integrations", path: "/integrations" },
+        { label: "Integrations", path: "/software/jira/integrations" },
         { label: "Automation", path: "/automation" },
       ],
     },
